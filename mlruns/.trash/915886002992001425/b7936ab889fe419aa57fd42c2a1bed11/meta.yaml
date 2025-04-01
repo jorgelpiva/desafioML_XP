@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/915886002992001425/b7936ab889fe419aa57fd42c2a1bed11/artifacts
+deleted_time: 1743465326997
+end_time: 1743365390839
+entry_point_name: ''
+experiment_id: '915886002992001425'
+lifecycle_stage: deleted
+run_id: b7936ab889fe419aa57fd42c2a1bed11
+run_name: SVM
+run_uuid: b7936ab889fe419aa57fd42c2a1bed11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743364048595
+status: 3
+tags: []
+user_id: jorge

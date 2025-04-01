@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/180276278366477676/0245890df72945f2b9288cf58bdd663d/artifacts
+deleted_time: 1743465323276
+end_time: 1743460719311
+entry_point_name: ''
+experiment_id: '180276278366477676'
+lifecycle_stage: deleted
+run_id: 0245890df72945f2b9288cf58bdd663d
+run_name: caring-asp-176
+run_uuid: 0245890df72945f2b9288cf58bdd663d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743460709338
+status: 3
+tags: []
+user_id: jorge

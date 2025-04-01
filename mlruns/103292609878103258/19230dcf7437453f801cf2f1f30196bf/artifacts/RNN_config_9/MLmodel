@@ -1,0 +1,19 @@
+artifact_path: RNN_config_9
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.4.1
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.7
+mlflow_version: 2.21.0
+model_size_bytes: 47441
+model_uuid: a4361e9432fa4fcda243b177d5b67a55
+prompts: null
+run_id: 19230dcf7437453f801cf2f1f30196bf
+utc_time_created: '2025-04-01 01:52:32.390031'

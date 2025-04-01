@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/180276278366477676/ba5fa98d00974a2d9934d77b25a7edb0/artifacts
+deleted_time: 1743464568847
+end_time: 1743361319841
+entry_point_name: ''
+experiment_id: '180276278366477676'
+lifecycle_stage: deleted
+run_id: ba5fa98d00974a2d9934d77b25a7edb0
+run_name: likeable-skunk-367
+run_uuid: ba5fa98d00974a2d9934d77b25a7edb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743361314512
+status: 3
+tags: []
+user_id: jorge

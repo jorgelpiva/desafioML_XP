@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/689732042211591011/4496dc53de1e4780881d2802113c8cfe/artifacts
+end_time: 1743467502017
+entry_point_name: ''
+experiment_id: '689732042211591011'
+lifecycle_stage: active
+run_id: 4496dc53de1e4780881d2802113c8cfe
+run_name: Decision Tree
+run_uuid: 4496dc53de1e4780881d2802113c8cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743467492992
+status: 3
+tags: []
+user_id: jorge

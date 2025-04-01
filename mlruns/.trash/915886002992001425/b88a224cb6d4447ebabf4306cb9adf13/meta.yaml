@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/915886002992001425/b88a224cb6d4447ebabf4306cb9adf13/artifacts
+deleted_time: 1743366870432
+end_time: 1743279033144
+entry_point_name: ''
+experiment_id: '915886002992001425'
+lifecycle_stage: deleted
+run_id: b88a224cb6d4447ebabf4306cb9adf13
+run_name: Logistic Regression
+run_uuid: b88a224cb6d4447ebabf4306cb9adf13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743279019879
+status: 3
+tags: []
+user_id: jorge

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/180276278366477676/06253e120b12447fb3b64044ed801252/artifacts
+deleted_time: 1743465323276
+end_time: 1743461290154
+entry_point_name: ''
+experiment_id: '180276278366477676'
+lifecycle_stage: deleted
+run_id: 06253e120b12447fb3b64044ed801252
+run_name: silent-squid-251
+run_uuid: 06253e120b12447fb3b64044ed801252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743461280267
+status: 3
+tags: []
+user_id: jorge

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/103292609878103258/f082b5cd2d9f4dfcb2893738e916fdfb/artifacts
+end_time: 1743471875657
+entry_point_name: ''
+experiment_id: '103292609878103258'
+lifecycle_stage: active
+run_id: f082b5cd2d9f4dfcb2893738e916fdfb
+run_name: 'RNN , {''epochs'': 30, ''neurons'': 32, ''activation'': ''relu'', ''optimizer'':
+  ''rmsprop''}'
+run_uuid: f082b5cd2d9f4dfcb2893738e916fdfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743471866515
+status: 3
+tags: []
+user_id: jorge

@@ -1,0 +1,1 @@
+LSTM , {'epochs': 20, 'neurons': 64, 'activation': 'relu', 'optimizer': 'rmsprop'}

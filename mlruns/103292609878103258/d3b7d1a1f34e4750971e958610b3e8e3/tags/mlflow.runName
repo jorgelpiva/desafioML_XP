@@ -1,0 +1,1 @@
+RNN , {'epochs': 10, 'neurons': 128, 'activation': 'tanh', 'optimizer': 'rmsprop'}

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/103292609878103258/7648439af35a4d2b9f71f28c011fede9/artifacts
+end_time: 1743470714900
+entry_point_name: ''
+experiment_id: '103292609878103258'
+lifecycle_stage: active
+run_id: 7648439af35a4d2b9f71f28c011fede9
+run_name: Gradient Boosting
+run_uuid: 7648439af35a4d2b9f71f28c011fede9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743470706324
+status: 3
+tags: []
+user_id: jorge

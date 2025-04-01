@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/915886002992001425/db4ca18e609b43ac9c4a752f3483e248/artifacts
+deleted_time: 1743366870420
+end_time: 1743279573822
+entry_point_name: ''
+experiment_id: '915886002992001425'
+lifecycle_stage: deleted
+run_id: db4ca18e609b43ac9c4a752f3483e248
+run_name: XGBoost
+run_uuid: db4ca18e609b43ac9c4a752f3483e248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743279564602
+status: 3
+tags: []
+user_id: jorge

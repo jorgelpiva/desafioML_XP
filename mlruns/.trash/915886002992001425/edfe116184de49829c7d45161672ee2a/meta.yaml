@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/915886002992001425/edfe116184de49829c7d45161672ee2a/artifacts
+deleted_time: 1743465326997
+end_time: 1743365525792
+entry_point_name: ''
+experiment_id: '915886002992001425'
+lifecycle_stage: deleted
+run_id: edfe116184de49829c7d45161672ee2a
+run_name: Random Forest
+run_uuid: edfe116184de49829c7d45161672ee2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743365390847
+status: 3
+tags: []
+user_id: jorge

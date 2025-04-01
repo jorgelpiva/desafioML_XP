@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/103292609878103258/67deab734aa44c75bba79ec0be8c487d/artifacts
+end_time: 1743472676914
+entry_point_name: ''
+experiment_id: '103292609878103258'
+lifecycle_stage: active
+run_id: 67deab734aa44c75bba79ec0be8c487d
+run_name: 'LSTM , {''epochs'': 10, ''neurons'': 128, ''activation'': ''tanh'', ''optimizer'':
+  ''adam''}'
+run_uuid: 67deab734aa44c75bba79ec0be8c487d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743472667653
+status: 3
+tags: []
+user_id: jorge

@@ -1,0 +1,19 @@
+artifact_path: LSTM_config_10
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.4.1
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.7
+mlflow_version: 2.21.0
+model_size_bytes: 92659
+model_uuid: ca07dd5fee2b4be89eed19433ab45eb5
+prompts: null
+run_id: c8016d165b7c40f4819c0075576f28da
+utc_time_created: '2025-04-01 02:31:11.389492'

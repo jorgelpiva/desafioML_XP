@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/EngenheiroML/Modulo5/desafioML_XP/mlruns/915886002992001425/8c2fc9a83c9c47d7a208132ccaa5a948/artifacts
+deleted_time: 1743366870397
+end_time: 1743286940099
+entry_point_name: ''
+experiment_id: '915886002992001425'
+lifecycle_stage: deleted
+run_id: 8c2fc9a83c9c47d7a208132ccaa5a948
+run_name: LSTM
+run_uuid: 8c2fc9a83c9c47d7a208132ccaa5a948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743286903143
+status: 3
+tags: []
+user_id: jorge
